@@ -7,16 +7,12 @@ Kubernetes") as either a standalone server or cluster.
 
 ## Help Wanted!
 
-Hi! :wave: [@xanmanning](https://github.com/xanmanning) is looking for a new
+Hi! is looking for a new
 maintainer to work on this Ansible role. This is because I don't have as much
 free time any more and I no longer write Ansible regularly as part of my day
 job. If you're interested, get in touch.
 
 ## Release notes
-
-Please see [Releases](https://github.com/PyratLabs/ansible-role-k3s/releases)
-and [CHANGELOG.md](CHANGELOG.md).
-
 ## Requirements
 
 The host you're running Ansible from requires the following Python dependencies:
